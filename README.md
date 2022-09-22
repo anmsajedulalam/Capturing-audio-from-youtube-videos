@@ -4,7 +4,7 @@ This can capture audio from any youtube video links. Just put the links in the d
 
 # Requirements
 
-pytube
-moviepy
-imageio
+pytube,
+moviepy,
+imageio,
 imageio-ffmpeg
